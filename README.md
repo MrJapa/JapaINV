@@ -154,7 +154,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Jacob Japa - [LinkedIn](https://www.linkedin.com/in/jacobjapa/) - jjv@cracked.to
+MrJapa - jjv@cracked.to
 
 Project Link: [github.com/MrJapa/Inventory/projects](https://github.com/MrJapa/Inventory/projects/1)
 
